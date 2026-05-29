@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @emilia-ui
+/src/backend/database.py      @emilia-ui
+/src/backend/routers/auth.py  @emilia-ui
+
+# The frontend will need refactored soon to be more object oriented 
+/src/static/   @emilia-ui
